@@ -16,7 +16,16 @@ This project implements a news classification system that classifies news articl
 Accuracy: ~95%<br>
 Strong and consistent performance on both classes<br>
 
+<p align="center">
+   <img src="/mnb.png" width="400">  
+</p>
+
+
 🔹 K-Nearest Neighbors (Best Model)
 Accuracy: ~98%<br>
 Excellent precision and recall for both Fake and Real news<br>
 Demonstrates effectiveness of dense word embeddings<br>
+
+<p align="center">
+   <img src="/knn.png" width="400">  
+</p>
