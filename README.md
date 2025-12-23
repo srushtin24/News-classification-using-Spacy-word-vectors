@@ -3,7 +3,7 @@
 📌 Overview<br>
 This project implements a news classification system that classifies news articles as Fake or Real using SpaCy word vectors and traditional machine learning models.<br><br>
 
-🚀 Project Highlights<br>
+🚀 Project Highlights
 - Utilized SpaCy en_core_web_lg word vectors to generate semantic document embeddings
 - Built an end-to-end NLP pipeline from raw text to predictions
 - Implemented and compared multiple ML models:
