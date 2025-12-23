@@ -11,8 +11,8 @@ This project implements a news classification system that classifies news articl
     - K-Nearest Neighbors (KNN)
 - Achieved up to 98% accuracy using KNN on vectorized text<br><br>
 
-📊 Model Performance<br>
-🔹 Multinomial Naive Bayes
+📊 Model Performance
+- Multinomial Naive Bayes
 Accuracy: ~95%<br>
 Strong and consistent performance on both classes<br>
 
@@ -21,7 +21,7 @@ Strong and consistent performance on both classes<br>
 </p>
 
 
-🔹 K-Nearest Neighbors (Best Model)
+- K-Nearest Neighbors (Best Model)
 Accuracy: ~98%<br>
 Excellent precision and recall for both Fake and Real news<br>
 Demonstrates effectiveness of dense word embeddings<br>
